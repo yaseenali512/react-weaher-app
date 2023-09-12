@@ -82,7 +82,7 @@ const WeatherApp = () => {
       <div className="weather-image">
         <img src={wiocn} alt="" />
       </div>
-      <div className="weather-temp">24°C</div>
+      <div className="weather-temp text-center">24°C</div>
       <div className="weather-location">London</div>
       <div className="data-container">
         <div className="element">
